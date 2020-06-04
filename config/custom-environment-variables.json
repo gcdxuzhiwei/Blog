@@ -1,0 +1,9 @@
+{
+    "db":{
+        "user":"APP_DB_USER",
+        "pwd":"APP_DB_PWD",
+        "name":"APP_DB_NAME",
+        "host":"localhost",
+        "port":"27017"
+    }
+}
